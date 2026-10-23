@@ -1,3 +1,13 @@
+@font-face {
+    font-family: 'Dream Font';
+    src: url(fonts/Dream Avenue Regular.otf);
+    font-style: normal;
+}
+
 body {
   background: black;
+}
+
+#Title {
+  font-family: 'Dream Font', sans-serif;
 }
